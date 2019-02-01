@@ -1,0 +1,33 @@
+.page-header {
+    padding: 10px;
+    background-color: #eeeeee;
+}
+
+.page-footer {
+    padding: 10px;
+    background-color: #eeeeee;
+}
+
+.price-list {
+  width: 100%;
+  border-collapse: collapse;
+}
+.price-list td{
+  border: 1px solid white;
+}
+
+.price-list th {
+  font-weight: normal;
+  font-size: 12px;
+  text-align: left;
+  color: grey;
+}
+
+.price-list th,
+.price-list td {
+  padding: 10px 10px;
+}
+
+.order-form-group {
+  padding: 10px;
+}
